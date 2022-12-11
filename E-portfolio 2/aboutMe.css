@@ -1,0 +1,70 @@
+body {
+    background-color: black;
+}
+
+.topnav {
+    margin-right: 60;
+}
+
+a {
+    text-decoration: none;
+    float: right;
+    color: white;
+    margin-left: 100;
+    margin-top: 50;
+    text-align: center;
+    font-size: 25;
+    font-family: Geneva, Verdana, sans-serif;
+}
+
+.active {
+    text-decoration: none;
+    float: right;
+    color: #42D6D1;
+    margin-left: 100;
+    margin-top: 50;
+    text-align: center;
+    font-size: 25;
+    font-family: Geneva, Verdana, sans-serif;
+}
+
+.shortBlueLine {
+    margin-top: 8;
+    margin-left: 40;
+}
+
+.aboutMe {
+    margin-top: -108;
+    margin-left: 65;
+    color: #42D6D1;
+    font-size: 70;
+    font-family: Geneva, Verdana, sans-serif;
+}
+
+.myPicture {
+    margin-top: 100;
+    margin-left: 180;
+    width: 300;
+    height: 300;
+}
+
+.details {
+    margin-left: 500;
+    color: white;
+    font-size: 15;
+    font-family: Geneva, Verdana, sans-serif;
+}
+
+.aboutMeText {
+    margin-top: -230
+}
+
+.leftArrow {
+    margin-top: 180;
+    margin-right: 717;
+}
+
+.rightArrow {
+    margin-top: -148;
+    margin-right: 508;
+}

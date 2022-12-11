@@ -1,0 +1,119 @@
+body {
+    background-color: black;
+}
+
+.topnav {
+    position: relative;
+}
+
+.active {
+    position: absolute;
+    text-decoration: none;
+    float: right;
+    color: #42D6D1;
+    text-align: center;
+    margin-top: 50;
+    margin-left: 702;
+    font-size: 25;
+    font-family: Geneva, Verdana, sans-serif;
+    z-index: 1;
+}
+
+.notActive {
+    position: absolute;
+    text-decoration: none;
+    float: right;
+    color: white;
+    text-align: center;
+    margin-top: 50;
+    margin-left: 870;
+    font-size: 25;
+    font-family: Geneva, Verdana, sans-serif;
+    z-index: 1;
+}
+
+.notActive2 {
+    position: absolute;
+    text-decoration: none;
+    float: right;
+    color: white;
+    text-align: center;
+    margin-top: 50;
+    margin-left: 1087;
+    font-size: 25;
+    font-family: Geneva, Verdana, sans-serif;
+    z-index: 1;
+}
+
+.notActive3 {
+    position: absolute;
+    text-decoration: none;
+    float: right;
+    color: white;
+    text-align: center;
+    margin-top: 50;
+    margin-left: 1268;
+    font-size: 25;
+    font-family: Geneva, Verdana, sans-serif;
+    z-index: 1;
+}
+
+.homeBackground {
+    margin-left: 780;
+    margin-top: -200;
+    opacity: 0.2;
+}
+
+.my {
+    color: #42D6D1;
+    font-size: 150;
+    font-family: Geneva, Verdana, sans-serif;
+    margin-top: -750;
+    margin-left: 80;
+}
+
+.portfolio {
+    color: #42D6D1;
+    font-size: 150;
+    font-family: Geneva, Verdana, sans-serif;
+    margin-top: -150;
+    margin-left: 80;
+}
+
+.details {
+    margin-top: -140;
+    margin-left: 80
+}
+
+.details2 {
+    color: white;
+    font-size: 18.5;
+    font-family: Geneva, Verdana, sans-serif;
+}
+
+.details3 {
+    color: white;
+    font-size: 18.5;
+    font-family: Geneva, Verdana, sans-serif;
+    margin-top: -10
+}
+
+.buttonHeader {
+    margin-left: 80;
+}
+
+.btn {
+    width: 300;
+    height: 60;
+    color: white;
+    background-color: black;
+    border-style: ridge;
+    border-radius: 12px;
+    border-color: #42D6D1;
+    font-size: 22;
+    font-family: Geneva, Verdana, sans-serif;
+}
+
+.blueLine {
+    margin-top: -950;
+}

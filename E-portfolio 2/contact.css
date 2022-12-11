@@ -1,0 +1,64 @@
+body {
+    background-color: black;
+}
+
+.topnav {
+    margin-right: 60;
+}
+
+a {
+    text-decoration: none;
+    float: right;
+    color: white;
+    margin-left: 100;
+    margin-top: 50;
+    text-align: center;
+    font-size: 25;
+    font-family: Geneva, Verdana, sans-serif;
+}
+
+.active {
+    text-decoration: none;
+    float: right;
+    color: #42D6D1;
+    margin-left: 100;
+    margin-top: 50;
+    text-align: center;
+    font-size: 25;
+    font-family: Geneva, Verdana, sans-serif;
+}
+
+.shortBlueLine {
+    margin-top: 8;
+    margin-left: 40;
+}
+
+.contactMe {
+    margin-top: -108;
+    margin-left: 65;
+    color: #42D6D1;
+    font-size: 70;
+    font-family: Geneva, Verdana, sans-serif;
+}
+
+.mail {
+    margin-top: 110;
+    margin-right: 1000;
+    width: 400;
+    height: 250;
+}
+
+.call {
+    margin-top: -260;
+    margin-left: 510;
+    width: 400;
+    height: 250;
+}
+
+.location {
+    margin-top: -333;
+    margin-left: 1033;
+    width: 400;
+    height: 250;
+}
+

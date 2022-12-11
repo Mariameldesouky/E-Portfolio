@@ -1,0 +1,73 @@
+body {
+    background-color: black;
+}
+
+.artPieces {
+    width: 600;
+    height: 222;
+    margin-left: 412.5;
+    margin-top: 30;
+}
+
+.leftArrow {
+    margin-right: 700;
+    margin-top: 102;
+    transition: 0.2s;
+}
+
+.back {
+    color: #42D6D1;
+    margin-left: 180;
+    margin-top: -66;
+    font-size: 30;
+    font-family: Geneva, Verdana, sans-serif;
+}
+
+.column1 {
+    margin-left: 123;
+    margin-top: 40;
+    float: left;
+    width: 32%;
+    padding: 5px;
+    transition: 0.2s;
+}
+
+.column1:hover {
+    transform: scale(1.3);
+}
+
+.column2 {
+    margin-right: 30;
+    margin-top: 40;
+    float: left;
+    width: 32%;
+    padding: 5px;
+    transition: 0.2s;
+}
+
+.column2:hover {
+    transform: scale(1.3);
+}
+
+.column3 {
+    margin-left: -33;
+    margin-top: 40;
+    float: left;
+    width: 1%;
+    padding: 5px;
+    transition: 0.2s;
+}
+
+.column3:hover {
+    transform: scale(1.3);
+}
+
+.pic {
+    width: 450;
+    height: 300;
+}
+
+.pic2 {
+    width: 240;
+    height: 300
+}

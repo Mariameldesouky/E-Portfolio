@@ -1,0 +1,125 @@
+body {
+    background-color: black;
+}
+
+.fashionTitle {
+    width: 700;
+    height: 152;
+    margin-left: 366;
+    margin-top: 30;
+}
+
+.leftArrow {
+    margin-top: 120;
+    transition: 0.2s;
+}
+
+.back {
+    color: #42D6D1;
+    margin-left: 180;
+    margin-top: -66;
+    font-size: 30;
+    font-family: Geneva, Verdana, sans-serif;
+}
+
+.column1 {
+    margin-left: 95;
+    margin-top: 90;
+    float: left;
+    width: 10%;
+    padding: 5px;
+    transition: 0.2s;
+}
+
+.column1:hover {
+    transform: scale(1.5);
+}
+
+.column2 {
+    margin-left: 25;
+    margin-top: 90;
+    float: left;
+    width: 10%;
+    padding: 5px;
+    transition: 0.2s;
+}
+
+.column2:hover {
+    transform: scale(1.5);
+}
+
+.column3 {
+    margin-left: 25;
+    margin-top: 90;
+    float: left;
+    width: 10%;
+    padding: 5px;
+    transition: 0.2s;
+}
+
+.column3:hover {
+    transform: scale(1.5);
+}
+
+.column4 {
+    margin-left: 25;
+    margin-top: 90;
+    float: left;
+    width: 10%;
+    padding: 5px;
+    transition: 0.2s;
+}
+
+.column4:hover {
+    transform: scale(1.5);
+}
+
+.column5 {
+    margin-left: 25;
+    margin-top: 90;
+    float: left;
+    width: 10%;
+    padding: 5px;
+    transition: 0.2s;
+}
+
+.column5:hover {
+    transform: scale(1.5);
+}
+
+.column6 {
+    margin-left: 25;
+    margin-top: 90;
+    float: left;
+    width: 10%;
+    padding: 5px;
+    transition: 0.2s;
+}
+
+.column6:hover {
+    transform: scale(1.5);
+}
+
+.column7 {
+    margin-left: 25;
+    margin-top: 90;
+    float: left;
+    width: 5%;
+    padding: 5px;
+    transition: 0.2s;
+}
+
+.column7:hover {
+    transform: scale(1.5);
+}
+
+.row {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.pic {
+    width: 160;
+    height: 300;
+}

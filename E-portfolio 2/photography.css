@@ -1,0 +1,96 @@
+body {
+    background-color: black;
+}
+
+.photographyTitle {
+    width: 700;
+    height: 179;
+    margin-left: 470px;
+}
+
+.leftArrow {
+    margin-top: 112;
+    transition: 0.2s;
+}
+
+.back {
+    color: #42D6D1;
+    margin-left: 180;
+    margin-top: -66;
+    font-size: 30;
+    font-family: Geneva, Verdana, sans-serif;
+}
+
+.column1 {
+    margin-left: 31;
+    margin-top: 50;
+    float: left;
+    width: 19%;
+    padding: 5px;
+    transition: 0.2s;
+}
+
+.column1:hover {
+    transform: scale(1.2);
+}
+
+.column2 {
+    margin-right: 98;
+    margin-top: 50;
+    float: left;
+    width: 19%;
+    padding: 5px;
+    transition: 0.2s;
+}
+
+.column2:hover {
+    transform: scale(1.2);
+}
+
+.column3 {
+    margin-left: -98;
+    margin-top: 50;
+    float: left;
+    width: 19%;
+    padding: 5px;
+    transition: 0.2s;
+}
+
+.column3:hover {
+    transform: scale(1.2);
+}
+
+.column4 {
+    margin-top: 50;
+    float: left;
+    width: 19%;
+    padding: 5px;
+    transition: 0.2s;
+}
+
+.column4:hover {
+    transform: scale(1.2);
+}
+
+.column5 {
+    margin-top: 50;
+    float: left;
+    width: 1%;
+    padding: 5px;
+    transition: 0.2s;
+}
+
+.column5:hover {
+    transform: scale(1.2);
+}
+
+.row {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.pic {
+    width: 260;
+    height: 350;
+}
